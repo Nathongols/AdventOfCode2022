@@ -11,4 +11,4 @@ for i, char in enumerate(input):
     if len(set(marker.values())) == 14:
         break
 
-print(set(marker.keys()))
+print(set(marker.keys())) 
